@@ -1,0 +1,14 @@
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\bin\Debug\netcoreapp2.2\Delivery.deps.json
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\bin\Debug\netcoreapp2.2\Delivery.runtimeconfig.json
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\bin\Debug\netcoreapp2.2\Delivery.runtimeconfig.dev.json
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\bin\Debug\netcoreapp2.2\Delivery.dll
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\bin\Debug\netcoreapp2.2\Delivery.pdb
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.csprojAssemblyReference.cache
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.csproj.CoreCompileInputs.cache
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.RazorAssemblyInfo.cache
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.RazorAssemblyInfo.cs
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.AssemblyInfoInputs.cache
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.AssemblyInfo.cs
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.RazorTargetAssemblyInfo.cache
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.dll
+C:\SMS-Esfiharia-master\backend3\Delivery\Delivery\obj\Debug\netcoreapp2.2\Delivery.pdb
